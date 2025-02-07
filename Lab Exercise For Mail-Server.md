@@ -1,7 +1,7 @@
 ##                      **Lab Exercise For Mail-Server**
 
-## **IMAP PORT : 143**
-
+## 
+**IMAP PORT : 143**
 **POP3 : 25**
 
 ## **Exercise 1**
