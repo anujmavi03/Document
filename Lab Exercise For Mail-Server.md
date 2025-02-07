@@ -7,42 +7,42 @@
 
 ## **Exercise 1**
 
-| Use Mutt to send an email from user1@lab.keenable.io to user2@lab.fosteringlinux.com with the subject "Hello" and body "Test message from Mutt". |
+| Use Mutt to send an email from aman@lab.keenable.io to anuj@lab.fosteringlinux.com with the subject "Hello" and body "Test message from Mutt". |
 | :---- |
 
 ## 
 
 ## **Exercise 2**
 
-| Log in as user2@lab.fosteringlinux.com and check if the email from user1@lab.keenable.io is received by using mutt. |
+| Log in as anuj@lab.fosteringlinux.com and check if the email from aman@lab.keenable.io is received by using mutt. |
 | :---- |
 
 ## 
 
 ## **Exercise 3**
 
-| Create a sample.txt file and attach the file “sample.txt” and send it to user2@lab.fosteringlinux.com by using mutt. |
+| Create a sample.txt file and attach the file “sample.txt” and send it to anuj@lab.fosteringlinux.com by using mutt. |
 | :---- |
 
 ## 
 
 ## **Exercise 4**
 
-| Set up user2@lab.fosteringlinux.com in Thunderbird using IMAP and POP3 with the provided ports. |
+| Set up anuj@lab.fosteringlinux.com in Thunderbird using IMAP and POP3 with the provided ports. |
 | :---- |
 
 ## 
 
 ## **Exercise 5**
 
-| Compose and send an email from user2@lab.fosteringlinux.com to user1@lab.keenable.io with the subject "Test Email" by using Thunderbird. |
+| Compose and send an email from anuj@lab.fosteringlinux.com to aman@lab.keenable.io with the subject "Test Email" by using Thunderbird. |
 | :---- |
 
 ## 
 
 ## **Exercise 6**
 
-| Open Thunderbird as user1@lab.keenable.io and check if the email from user2@lab.fosteringlinux.com has arrived. |
+| Open Thunderbird as aman@lab.keenable.io and check if the email from anuj@lab.fosteringlinux.com has arrived. |
 | :---- |
 
 ## 
@@ -56,7 +56,7 @@
 
 ## **Exercise 8**
 
-| Manually add a new contact named Aman (aman@lab.keenable.in) to Thunderbird’s address book. |
+| Manually add a new contact named Jatin (Jatin@lab.keenable.in) to Thunderbird’s address book. |
 | :---- |
 
 ## 
