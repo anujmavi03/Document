@@ -14,14 +14,14 @@
 
 ## **Exercise 2**
 
-| Log in as user2@lab.fosteringlinux.com and check if the email from user1@lab.keenable.io is received. |
+| Log in as user2@lab.fosteringlinux.com and check if the email from user1@lab.keenable.io is received by using mutt. |
 | :---- |
 
 ## 
 
 ## **Exercise 3**
 
-| Create a sample.txt file and attach the file “sample.txt” and send it to user2@lab.fosteringlinux.com. |
+| Create a sample.txt file and attach the file “sample.txt” and send it to user2@lab.fosteringlinux.com by using mutt. |
 | :---- |
 
 ## 
