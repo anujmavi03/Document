@@ -154,30 +154,6 @@
 | Update salary for all employees in "HR" department to ₹45,000. |
 | :---- |
 
-## **Exercise 10**
-
-|  |
-| :---- |
-
-## **Exercise 10**
-
-|  |
-| :---- |
-
-## **Exercise 10**
-
-|  |
-| :---- |
-
-## **Exercise 10**
-
-|  |
-| :---- |
-
-## **Exercise 10**
-
-|  |
-| :---- |
 
 ## **Exercise 10**
 
